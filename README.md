@@ -11,4 +11,3 @@ Angular 5
 ng serve
 ```
 
-* Make sure to update the environments/environment.ts with your own DialogFlow Client Access Token.
